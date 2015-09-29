@@ -93,7 +93,7 @@ img {
 #starter:before{
     content: '';
     position: absolute;
-    background: url("../images/bg2k.jpg") no-repeat center;
+    background: url("../images/bgc.jpg") no-repeat center;
     height: 100%;
     width: 100%;
     -webkit-background-size: cover;
